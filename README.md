@@ -19,4 +19,4 @@ Included:
 - ip.php - Displays the IP address. Usable to find out the IP of the Aptus system if the script above is to be used.
 
 Installation:
-- Please see INSTALL.
+- Please see [INSTALL.md](INSTALL.md).
